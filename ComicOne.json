@@ -1,0 +1,17 @@
+{
+  "title":"Superloli",
+  "author":"JoshP1",
+  "volume":{
+    "title":"Hero's Awakening",
+    "comic":{
+      "name":"issue 1(Change to real name)",
+      "number":101,
+      "desc": "Desciption of volumn here"
+    },
+    "comic":{
+      "name":"issue 2(change name)",
+      "number":102,
+      "desc":"Add description"
+    }
+  }
+}
